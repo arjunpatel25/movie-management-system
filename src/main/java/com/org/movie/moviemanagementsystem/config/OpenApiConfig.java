@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
                 title = "Movie Management System",
          description = "Movie Management System API",
         version = "1.0.0",
-        contact = @Contact(name = "Arjun",
+        contact = @Contact(name = "Arjun patel",
                 email = "arjun@gmail.com")))
 public class OpenApiConfig {
 
